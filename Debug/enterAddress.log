@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\Layko\Proyectos\C++\GameHacking\AssaultCubeHacking\SimpleRPMWPM\enterAddress\Source.cpp(18): error C4700: se utilizó la variable local 'procId' sin inicializar
